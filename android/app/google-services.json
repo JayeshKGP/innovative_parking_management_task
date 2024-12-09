@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98280967220",
+    "project_id": "parkingmanagement-b9430",
+    "storage_bucket": "parkingmanagement-b9430.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98280967220:android:0f7100f8557e2883d80e61",
+        "android_client_info": {
+          "package_name": "jayesh.kgp.innovative_parking_management_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn72LI0nsnvPMAnVAw8FAb7XvOw3_lI3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
